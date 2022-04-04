@@ -9,6 +9,8 @@
     - [Harvard CS50 - GDB (video)](https://www.youtube.com/watch?v=y5JmQItfFck)
     - [Valgrind (video)](https://www.youtube.com/watch?v=fvTsFjDuag8)
   - [Let us C](https://books.google.co.in/books/about/Let_Us_C.html?id=7HrjAAAACAAJ)
+  - [Complete C programming for beginners](https://youtu.be/KJgsSFOSQv0)
+
 - C++
   - [C++ Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/Cpp_reference.pdf)
   - [STL Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
@@ -31,6 +33,7 @@
   - [Review of C++ concepts (video)](https://www.youtube.com/watch?v=Rub-JsjMhWY)
   - [Let us C++](https://books.google.co.in/books/about/Let_Us_C++.html?id=6HrjAAAACAAJ)
   - [C++ Primer](https://books.google.co.in/books/about/C++_Primer.html?id=J1HMLyxqJfgC&redir_esc=y)
+  - [C++ Tutorial for Beginners](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
 - Python
   - [Python Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
   - [Python in One Video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
@@ -59,7 +62,7 @@
   - [Go at Google: Language Design in the Service of Software Engineering](https://talks.golang.org/2012/splash.article)
   - [Go Proverbs](http://go-proverbs.github.io/)
   - [Go Proverbs - Rob Pike (video)](https://www.youtube.com/watch?v=PAAkCSZUG1c)
-  - [Gophercises - Free course on Coding Exercises in Go](https://gophercises.com) ]
+  - [Gophercises - Free course on Coding Exercises in Go](https://gophercises.com)
 - HTML
   - [Quick HTML Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB)
   - [HTML Crash Course for Beginners (1 hr)](https://www.youtube.com/watch?v=UB1O30fR-EE)
